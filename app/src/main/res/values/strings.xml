@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WORDDIG</string>
+    <string name="game_title">WORDDIG</string>
+    <string name="game_subtitle">Find hidden animals and fruits!</string>
+    <string name="score_label">Score: %d</string>
+    <string name="phase_find">Phase: Find words!</string>
+    <string name="phase_complete">Phase: All words found!</string>
+    <string name="new_game">New Game</string>
+    <string name="target_words">Target Words</string>
+    <string name="found_words">Found Words</string>
+    <string name="instruction1">Drag over letters to select words</string>
+    <string name="instruction2">Find all words to advance!</string>
+</resources>
